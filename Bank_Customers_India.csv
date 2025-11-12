@@ -1,0 +1,251 @@
+CustomerID,FullName,Gender,Age,AgeGroup,State,City,AccountOpenedDate,AccountType,DematAccount,LastYearNewDemat,AnnualIncome,TransactionCountLast12m,TransactionValueLast12m,CreditScore,InvestmentType,EmploymentStatus,ProductType,CustomerSinceYears,FeedbackScore
+CUST001,Shlok Bassi,Female,32,26-35,Madhya Pradesh,Akola,2021-08-22,Salary,Yes,Yes,2177981,240,3542473,499,None,Self-employed,Corporate Banking,4.2,7
+CUST002,Shanaya Bains,Other,61,56-65,Maharashtra,Kirari Suleman Nagar,2022-08-14,NRI,Yes,Yes,1121681,91,3123454,487,Mutual Funds,Student,Corporate Banking,3.2,10
+CUST003,Uthkarsh Ray,Female,38,36-45,West Bengal,Morena,2020-03-28,Savings,Yes,Yes,739302,401,2557889,516,FD,Student,Corporate Banking,5.6,5
+CUST004,Neelofar Ben,Female,62,56-65,Delhi,Pali,2023-01-09,NRI,Yes,Yes,317670,398,4742418,698,Mutual Funds,Self-employed,Digital Only,2.8,7
+CUST005,Zoya Krish,Male,64,56-65,Karnataka,Panvel,2022-03-24,Current,Yes,No,2094409,444,750442,884,FD,Self-employed,Retail Banking,3.6,2
+CUST006,Jayesh Kakar,Female,66,65+,Bihar,Raipur,2023-01-22,Salary,Yes,No,1228446,296,3290939,900,Stocks,Salaried,Retail Banking,2.8,6
+CUST007,Aarush Sha,Female,53,46-55,Maharashtra,Amroha,2021-06-06,Salary,No,No,2158487,451,1138047,877,None,Salaried,Corporate Banking,4.4,5
+CUST008,Nayantara Trivedi,Other,58,56-65,Rajasthan,Bally,2024-08-31,Salary,Yes,No,988319,110,4906514,578,FD,Self-employed,Retail Banking,1.2,2
+CUST009,Lakshit Kara,Male,55,46-55,Karnataka,Shimoga,2022-03-01,Salary,Yes,Yes,1268226,377,2337860,532,None,Self-employed,Retail Banking,3.7,6
+CUST010,Alisha Raja,Male,56,56-65,Tamil Nadu,Kharagpur,2025-07-19,Savings,Yes,Yes,543412,393,2027006,823,Stocks,Student,Corporate Banking,0.3,5
+CUST011,Seher Magar,Other,37,36-45,Delhi,Rewa,2024-07-10,NRI,Yes,Yes,513866,320,3002058,686,FD,Student,Retail Banking,1.3,4
+CUST012,Ahana  Wadhwa,Female,35,26-35,Uttar Pradesh,Mango,2020-07-15,Salary,No,No,2246038,138,3380376,430,Mutual Funds,Retired,Retail Banking,5.3,6
+CUST013,Faiyaz Sen,Male,33,26-35,Tamil Nadu,Srikakulam,2021-04-29,Current,Yes,No,838229,200,3787744,525,FD,Student,Corporate Banking,4.5,1
+CUST014,Zeeshan D’Alia,Other,32,26-35,Maharashtra,Suryapet,2024-12-05,Salary,No,No,2242532,357,1262117,714,Stocks,Salaried,Corporate Banking,0.9,4
+CUST015,Siya Taneja,Male,61,56-65,Uttar Pradesh,Pali,2025-05-05,Salary,No,No,1013199,329,3684389,447,Mutual Funds,Self-employed,Corporate Banking,0.5,10
+CUST016,Stuvan Din,Female,63,56-65,Delhi,Orai,2021-12-08,Current,No,No,798595,445,3214338,660,Stocks,Retired,Digital Only,3.9,1
+CUST017,Manjari Bhatia,Other,19,18-25,Delhi,Bhatpara,2021-01-11,Salary,Yes,No,1663593,213,405180,673,Stocks,Self-employed,Digital Only,4.8,4
+CUST018,Nirvaan Bhatnagar,Male,20,18-25,Madhya Pradesh,Dewas,2024-11-06,Salary,Yes,No,278302,290,3580701,359,Mutual Funds,Student,Corporate Banking,1.0,5
+CUST019,Pranay Sachar,Female,70,65+,Madhya Pradesh,Sambhal,2025-08-15,NRI,Yes,Yes,1874485,462,1785545,564,FD,Salaried,Corporate Banking,0.2,10
+CUST020,Vanya Chaudhry,Other,22,18-25,Karnataka,Nagpur,2024-06-12,Current,Yes,No,2233484,321,3615412,900,Stocks,Salaried,Digital Only,1.4,2
+CUST021,Divij Gopal,Female,66,65+,Maharashtra,Khora ,2020-09-29,Savings,No,No,429957,373,823325,685,Mutual Funds,Self-employed,Retail Banking,5.1,1
+CUST022,Pihu Goel,Female,36,36-45,Rajasthan,Hyderabad,2024-01-02,NRI,No,No,1537086,453,4739655,856,Stocks,Student,Retail Banking,1.8,3
+CUST023,Shaan Tripathi,Other,42,36-45,Gujarat,Nagpur,2022-07-12,Savings,Yes,No,330333,295,1824341,355,FD,Student,Digital Only,3.3,6
+CUST024,Lavanya Khatri,Male,52,46-55,Maharashtra,Ludhiana,2021-12-15,Savings,Yes,Yes,1229570,289,2995078,599,Stocks,Student,Retail Banking,3.9,5
+CUST025,Lagan Setty,Female,56,56-65,Delhi,Muzaffarnagar,2021-04-29,Savings,No,No,1157063,65,1498348,825,FD,Self-employed,Corporate Banking,4.5,7
+CUST026,Advik Yadav,Other,34,26-35,Karnataka,Burhanpur,2021-10-07,NRI,No,No,2259954,318,3058893,543,FD,Salaried,Digital Only,4.1,3
+CUST027,Keya Batra,Other,35,26-35,Madhya Pradesh,Morena,2020-09-20,NRI,Yes,Yes,2298574,179,3144194,592,Stocks,Student,Retail Banking,5.1,8
+CUST028,Ojas Wagle,Male,20,18-25,Maharashtra,Deoghar,2024-06-20,Salary,No,No,1456341,52,4785592,881,FD,Self-employed,Digital Only,1.4,6
+CUST029,Anvi Garde,Female,40,36-45,Madhya Pradesh,Kanpur,2021-08-02,NRI,No,No,1016571,409,2989732,384,None,Self-employed,Digital Only,4.3,5
+CUST030,Shamik Madan,Other,23,18-25,Madhya Pradesh,Danapur,2024-08-14,Salary,No,No,645039,239,4557844,408,FD,Self-employed,Corporate Banking,1.2,10
+CUST031,Uthkarsh Iyer,Female,25,18-25,Gujarat,Fatehpur,2024-03-04,Salary,Yes,Yes,2084965,475,119940,790,Mutual Funds,Student,Corporate Banking,1.7,8
+CUST032,Ryan Goel,Other,44,36-45,Delhi,Mango,2025-04-16,Salary,No,No,2230947,497,4547753,893,FD,Salaried,Digital Only,0.6,8
+CUST033,Prisha Iyer,Male,42,36-45,Gujarat,Dewas,2024-10-21,Current,Yes,Yes,1913228,246,729607,564,Mutual Funds,Self-employed,Corporate Banking,1.0,5
+CUST034,Kanav Balan,Male,64,56-65,Gujarat,Sri Ganganagar,2021-07-21,Salary,No,No,1122863,92,4076727,341,FD,Retired,Corporate Banking,4.3,1
+CUST035,Amira Randhawa,Female,42,36-45,Delhi,Thiruvananthapuram,2020-05-17,Savings,No,No,1378342,193,309696,599,None,Retired,Corporate Banking,5.5,8
+CUST036,Tushar Doctor,Other,18,18-25,Karnataka,Amritsar,2024-08-22,Savings,No,No,1663017,384,1180336,678,Mutual Funds,Salaried,Retail Banking,1.2,9
+CUST037,Navya Jaggi,Male,48,46-55,Maharashtra,Bally,2024-02-03,NRI,Yes,Yes,1705286,339,2512607,499,Mutual Funds,Self-employed,Digital Only,1.8,1
+CUST038,Shalv Dutt,Male,33,26-35,West Bengal,Raichur,2020-08-20,Current,No,No,2031187,230,3687099,559,Stocks,Self-employed,Corporate Banking,5.2,1
+CUST039,Lavanya Chacko,Other,28,26-35,West Bengal,Dhule,2021-05-21,Salary,No,No,1448533,181,4529443,324,Stocks,Student,Digital Only,4.5,6
+CUST040,Drishya Chopra,Female,49,46-55,Uttar Pradesh,Kharagpur,2023-03-19,Salary,Yes,No,1032808,322,4248502,654,Stocks,Self-employed,Corporate Banking,2.6,1
+CUST041,Azad Comar,Female,50,46-55,Gujarat,Hajipur,2021-01-21,NRI,Yes,Yes,342189,172,1923894,582,None,Student,Digital Only,4.8,5
+CUST042,Jiya Kakar,Other,66,65+,West Bengal,Jaipur,2020-03-29,Savings,No,No,472040,405,2514576,515,Stocks,Retired,Digital Only,5.6,7
+CUST043,Kiaan Bhatnagar,Other,61,56-65,Karnataka,Nagpur,2024-08-08,Savings,Yes,Yes,736911,450,287473,658,Stocks,Retired,Corporate Banking,1.2,4
+CUST044,Baiju Johal,Female,23,18-25,Karnataka,Korba,2023-02-01,Current,Yes,No,1367168,233,1043986,899,FD,Student,Digital Only,2.8,9
+CUST045,Elakshi Kade,Male,45,36-45,Uttar Pradesh,Saharsa,2021-12-17,NRI,No,No,2161865,30,638874,885,None,Retired,Retail Banking,3.9,4
+CUST046,Abram Saraf,Male,53,46-55,Delhi,Agartala,2021-09-03,Current,No,No,436252,329,2821606,709,Stocks,Self-employed,Corporate Banking,4.2,5
+CUST047,Shalv Chandra,Other,49,46-55,West Bengal,Hindupur,2023-10-01,NRI,Yes,No,2398096,499,1324437,792,None,Student,Retail Banking,2.1,6
+CUST048,Renee Dar,Female,52,46-55,Gujarat,Kadapa,2020-03-15,Current,Yes,Yes,1256355,316,4432510,655,None,Salaried,Corporate Banking,5.6,7
+CUST049,Miraya Sharma,Female,22,18-25,Maharashtra,Nagercoil,2021-11-19,Current,Yes,No,2399167,45,1764562,569,None,Retired,Corporate Banking,4.0,6
+CUST050,Adira Dhar,Female,32,26-35,Bihar,Bhilai,2023-12-10,Current,No,No,1277481,101,2075339,643,None,Retired,Retail Banking,1.9,9
+CUST051,Piya Gupta,Male,25,18-25,Bihar,Imphal,2021-01-24,Savings,No,No,1770647,280,2949174,826,None,Salaried,Retail Banking,4.8,3
+CUST052,Zeeshan Deo,Other,26,26-35,Gujarat,Proddatur,2021-07-26,Savings,No,No,819968,421,3012175,496,FD,Salaried,Digital Only,4.3,10
+CUST053,Parinaaz Ahuja,Female,33,26-35,Rajasthan,Bihar Sharif,2022-11-04,NRI,No,No,877690,371,3873699,644,Mutual Funds,Retired,Digital Only,3.0,1
+CUST054,Indrajit Din,Other,18,18-25,Rajasthan,Baranagar,2022-11-30,Salary,No,No,1580492,338,1561372,405,Mutual Funds,Retired,Corporate Banking,2.9,2
+CUST055,Shray Rana,Male,41,36-45,Bihar,Amravati,2023-12-07,Current,No,No,1480404,317,2038796,719,Stocks,Retired,Corporate Banking,1.9,5
+CUST056,Anay Choudhury,Female,60,56-65,Rajasthan,Chandrapur,2022-01-27,NRI,No,No,702173,489,828024,497,Mutual Funds,Student,Retail Banking,3.8,5
+CUST057,Siya Sarna,Female,21,18-25,Delhi,Vijayawada,2022-02-01,Savings,Yes,No,1583257,456,4347610,301,FD,Salaried,Corporate Banking,3.8,9
+CUST058,Taran Bhalla,Female,22,18-25,Gujarat,Bhubaneswar,2023-06-06,Current,Yes,Yes,2388941,259,393037,332,None,Retired,Corporate Banking,2.4,1
+CUST059,Alisha Devi,Male,26,26-35,Madhya Pradesh,Bidhannagar,2024-09-27,Salary,No,No,2400566,285,1106993,819,FD,Self-employed,Corporate Banking,1.1,10
+CUST060,Elakshi Viswanathan,Male,32,26-35,Maharashtra,Haridwar,2021-01-01,NRI,No,No,986086,409,1666301,634,None,Self-employed,Corporate Banking,4.8,10
+CUST061,Sara Karpe,Male,65,56-65,Bihar,Jalandhar,2024-01-09,NRI,No,No,2005378,179,3487637,428,FD,Salaried,Corporate Banking,1.8,8
+CUST062,Ela Deshpande,Male,28,26-35,Uttar Pradesh,Mehsana,2025-03-08,Salary,No,No,1334195,391,3040035,648,Mutual Funds,Student,Digital Only,0.7,8
+CUST063,Madhav Chatterjee,Other,44,36-45,Karnataka,Bardhaman,2024-05-18,Salary,No,No,632366,351,3811294,453,Mutual Funds,Student,Digital Only,1.5,4
+CUST064,Indrajit Deol,Female,45,36-45,Tamil Nadu,Siwan,2025-04-16,Current,No,No,2188422,495,2057687,359,Stocks,Retired,Retail Banking,0.6,3
+CUST065,Kimaya Tiwari,Female,27,26-35,Tamil Nadu,Hindupur,2021-05-28,Savings,Yes,No,1525995,14,155667,349,FD,Self-employed,Retail Banking,4.4,2
+CUST066,Aaina Chakrabarti,Other,56,56-65,West Bengal,Varanasi,2022-12-21,Current,No,No,730558,383,2116023,384,Stocks,Self-employed,Digital Only,2.9,4
+CUST067,Nakul Sangha,Other,54,46-55,Madhya Pradesh,Bhilwara,2021-10-09,Current,No,No,1136352,192,1360937,368,FD,Student,Retail Banking,4.1,6
+CUST068,Vanya Yohannan,Other,55,46-55,Gujarat,Raiganj,2020-03-26,NRI,No,No,1862109,257,2622819,436,FD,Self-employed,Retail Banking,5.6,7
+CUST069,Stuvan Rana,Other,44,36-45,West Bengal,Nashik,2024-09-07,Current,No,No,1297127,484,3933318,491,FD,Retired,Corporate Banking,1.2,10
+CUST070,Mannat Talwar,Female,27,26-35,Karnataka,Agra,2022-07-05,Current,No,No,821739,262,4560443,453,FD,Self-employed,Corporate Banking,3.3,4
+CUST071,Yuvaan Dara,Female,42,36-45,Karnataka,Bikaner,2021-12-08,Salary,Yes,Yes,1953183,396,3498743,890,Mutual Funds,Student,Retail Banking,3.9,2
+CUST072,Nakul Gade,Other,65,56-65,Uttar Pradesh,Kollam,2025-05-17,NRI,Yes,No,355050,486,1511586,541,Stocks,Salaried,Retail Banking,0.5,5
+CUST073,Kanav Bhalla,Other,63,56-65,Gujarat,Hosur,2024-02-24,Salary,Yes,No,240781,74,1575673,820,FD,Student,Digital Only,1.7,1
+CUST074,Arnav Tak,Other,54,46-55,Bihar,Giridih,2024-01-20,Current,No,No,201325,41,3361434,423,Stocks,Salaried,Corporate Banking,1.8,4
+CUST075,Mahika Majumdar,Male,28,26-35,Delhi,Bhalswa Jahangir Pur,2021-01-27,Current,No,No,314209,311,369904,869,None,Student,Retail Banking,4.8,1
+CUST076,Kavya Hans,Female,70,65+,Rajasthan,Arrah,2021-09-15,Salary,Yes,No,880994,106,3857012,306,FD,Student,Digital Only,4.1,8
+CUST077,Nakul Jayaraman,Female,28,26-35,Uttar Pradesh,Kirari Suleman Nagar,2020-10-21,Savings,Yes,No,1690759,168,556970,517,Stocks,Retired,Retail Banking,5.0,7
+CUST078,Drishya Viswanathan,Male,62,56-65,Maharashtra,Firozabad,2021-02-19,Salary,No,No,2373332,493,3755779,561,None,Self-employed,Retail Banking,4.7,5
+CUST079,Mannat Cherian,Male,70,65+,Rajasthan,Ichalkaranji,2024-06-17,Salary,No,No,1231588,99,4588043,692,Stocks,Salaried,Digital Only,1.4,2
+CUST080,Himmat Gaba,Male,55,46-55,Uttar Pradesh,Berhampore,2023-09-08,Salary,Yes,Yes,1692351,204,4533889,342,None,Salaried,Retail Banking,2.2,6
+CUST081,Adah Choudhary,Other,39,36-45,Delhi,Panihati,2023-11-18,NRI,Yes,Yes,1694637,500,1571727,882,Mutual Funds,Retired,Corporate Banking,2.0,5
+CUST082,Jiya Sandal,Female,69,65+,West Bengal,North Dumdum,2022-11-13,Current,Yes,Yes,2039408,34,4371255,697,Stocks,Self-employed,Retail Banking,3.0,2
+CUST083,Vihaan Mangat,Other,47,46-55,Madhya Pradesh,Gaya,2025-02-20,Savings,Yes,Yes,1281666,402,2219751,627,FD,Self-employed,Retail Banking,0.7,2
+CUST084,Abram Virk,Male,39,36-45,Madhya Pradesh,Bhusawal,2021-02-01,Current,No,No,364560,350,650338,332,FD,Student,Digital Only,4.8,10
+CUST085,Ritvik Grewal,Male,61,56-65,Gujarat,Srinagar,2021-07-03,Current,Yes,No,432105,491,2532233,493,Mutual Funds,Salaried,Retail Banking,4.3,7
+CUST086,Gokul Warrior,Male,19,18-25,Gujarat,Jamshedpur,2024-02-03,Savings,No,No,763879,64,1170891,377,Mutual Funds,Salaried,Digital Only,1.8,4
+CUST087,Eva Grover,Female,32,26-35,Gujarat,Malda,2021-01-06,Current,No,No,2292922,185,143788,425,FD,Student,Retail Banking,4.8,7
+CUST088,Eshani Reddy,Male,48,46-55,Tamil Nadu,Baranagar,2021-05-25,NRI,No,No,1608391,59,2791681,840,Stocks,Salaried,Corporate Banking,4.4,9
+CUST089,Jiya Roy,Female,30,26-35,Bihar,Raebareli,2025-09-06,NRI,No,No,2013292,162,4745772,835,Mutual Funds,Self-employed,Corporate Banking,0.2,3
+CUST090,Akarsh Virk,Other,62,56-65,Madhya Pradesh,Maheshtala,2022-01-10,Salary,Yes,No,2120256,152,4137745,698,None,Retired,Retail Banking,3.8,2
+CUST091,Shayak Chakrabarti,Female,29,26-35,Uttar Pradesh,Nangloi Jat,2024-11-11,Current,Yes,Yes,1830621,386,942934,747,Mutual Funds,Salaried,Corporate Banking,1.0,5
+CUST092,Faiyaz Korpal,Male,35,26-35,Uttar Pradesh,Phagwara,2025-05-08,NRI,No,No,1227415,323,1956500,442,Mutual Funds,Salaried,Corporate Banking,0.5,3
+CUST093,Jayesh Keer,Female,23,18-25,West Bengal,Jaunpur,2020-12-27,NRI,Yes,No,2298219,145,386659,594,Mutual Funds,Salaried,Digital Only,4.9,7
+CUST094,Saksham Bala,Other,50,46-55,Delhi,Dhanbad,2023-08-29,Current,Yes,No,2408229,358,908090,658,Mutual Funds,Retired,Corporate Banking,2.2,6
+CUST095,Shamik Chaudhari,Female,21,18-25,Bihar,Muzaffarnagar,2023-08-28,Current,No,No,1769106,18,3038103,698,None,Retired,Corporate Banking,2.2,2
+CUST096,Umang Cherian,Female,49,46-55,Uttar Pradesh,Tadepalligudem,2022-12-28,Savings,Yes,Yes,529297,265,3263478,851,Stocks,Salaried,Corporate Banking,2.9,5
+CUST097,Vritika Trivedi,Other,60,56-65,Gujarat,Aurangabad,2025-05-16,Salary,No,No,1567433,48,199542,700,Mutual Funds,Salaried,Corporate Banking,0.5,9
+CUST098,Fateh Deo,Other,43,36-45,Tamil Nadu,Kumbakonam,2023-08-21,Salary,No,No,2360799,468,332755,876,None,Self-employed,Corporate Banking,2.2,10
+CUST099,Diya Borah,Male,55,46-55,Gujarat,Bokaro,2022-01-28,NRI,No,No,848822,488,4572770,416,Stocks,Salaried,Retail Banking,3.8,8
+CUST100,Ehsaan Chad,Male,30,26-35,Gujarat,Gandhinagar,2025-01-24,Savings,Yes,Yes,1865878,488,3467976,612,Stocks,Retired,Digital Only,0.8,1
+CUST101,Shalv Gulati,Male,38,36-45,Madhya Pradesh,Thiruvananthapuram,2023-06-09,Salary,No,No,644255,138,3724768,417,Mutual Funds,Salaried,Retail Banking,2.4,6
+CUST102,Kaira Chaudhry,Female,69,65+,Tamil Nadu,Panvel,2022-12-20,Salary,No,No,814256,147,841117,644,Stocks,Student,Retail Banking,2.9,6
+CUST103,Arhaan Kunda,Female,33,26-35,Maharashtra,Jalgaon,2022-02-22,Current,Yes,No,2436798,213,4800929,614,Stocks,Self-employed,Digital Only,3.7,2
+CUST104,Jhanvi Jain,Male,45,36-45,Gujarat,Mango,2021-06-05,NRI,No,No,1540767,348,2057327,385,None,Salaried,Retail Banking,4.4,5
+CUST105,Dharmajan Dara,Male,32,26-35,Madhya Pradesh,Tadipatri,2022-09-17,Savings,Yes,No,1863479,168,4116735,597,Mutual Funds,Self-employed,Retail Banking,3.1,3
+CUST106,Jayesh Butala,Male,25,18-25,Gujarat,Amaravati,2021-11-01,Salary,Yes,Yes,818088,388,2765232,352,Mutual Funds,Student,Retail Banking,4.0,6
+CUST107,Sahil Dhar,Male,63,56-65,West Bengal,Kottayam,2022-12-22,Salary,No,No,1605714,228,2457854,808,None,Retired,Corporate Banking,2.9,7
+CUST108,Taran Raja,Female,27,26-35,West Bengal,Cuttack,2023-07-04,Savings,Yes,Yes,1695403,418,539149,315,Stocks,Salaried,Corporate Banking,2.3,8
+CUST109,Samarth Loyal,Other,23,18-25,Karnataka,Jodhpur,2025-06-15,Salary,No,No,420133,86,2011261,543,Stocks,Student,Retail Banking,0.4,3
+CUST110,Mohanlal Basak,Male,65,56-65,West Bengal,Jalna,2024-04-14,Savings,Yes,Yes,1975303,205,120374,896,None,Student,Digital Only,1.6,8
+CUST111,Lagan Chokshi,Other,43,36-45,Uttar Pradesh,Rampur,2023-12-23,Salary,No,No,1947359,67,2616613,655,Mutual Funds,Retired,Retail Banking,1.9,8
+CUST112,Mahika Sinha,Female,22,18-25,Rajasthan,Pallavaram,2024-07-27,Current,No,No,2395483,362,2918626,840,FD,Salaried,Retail Banking,1.3,9
+CUST113,Shamik Mannan,Other,63,56-65,Madhya Pradesh,Dehradun,2024-09-06,NRI,Yes,No,2191649,479,3144002,624,Mutual Funds,Retired,Corporate Banking,1.2,10
+CUST114,Ivana Gala,Other,34,26-35,Bihar,Ludhiana,2024-11-09,Savings,Yes,Yes,1903236,31,2707139,332,None,Salaried,Corporate Banking,1.0,3
+CUST115,Navya Kala,Other,61,56-65,Karnataka,Munger,2024-04-17,Salary,No,No,2265104,20,1269577,610,Stocks,Retired,Corporate Banking,1.6,9
+CUST116,Diya Hayre,Other,19,18-25,Tamil Nadu,Ramgarh,2023-02-03,Salary,No,No,615370,375,160075,644,None,Retired,Digital Only,2.8,3
+CUST117,Dishani Amble,Other,56,56-65,Rajasthan,Jamshedpur,2023-04-15,Current,Yes,No,2043075,154,3951436,545,Mutual Funds,Retired,Corporate Banking,2.6,8
+CUST118,Badal Khanna,Male,55,46-55,Madhya Pradesh,Kanpur,2024-12-17,Current,No,No,280486,129,2617432,713,Stocks,Salaried,Corporate Banking,0.9,2
+CUST119,Tarini Soni,Other,31,26-35,Uttar Pradesh,Imphal,2020-09-04,Salary,Yes,No,220650,392,2042455,735,FD,Retired,Corporate Banking,5.2,2
+CUST120,Jiya Kari,Male,56,56-65,Bihar,Cuttack,2025-11-03,NRI,Yes,Yes,488394,484,4666273,556,Mutual Funds,Retired,Digital Only,0.0,6
+CUST121,Renee Chaudhary,Male,32,26-35,Delhi,Tiruvottiyur,2022-05-10,Salary,Yes,Yes,954775,216,76165,611,None,Student,Digital Only,3.5,9
+CUST122,Ira Chand,Other,62,56-65,Gujarat,Jalandhar,2023-10-17,NRI,Yes,No,406427,500,4084737,781,None,Student,Retail Banking,2.1,3
+CUST123,Amani Gole,Female,42,36-45,Uttar Pradesh,Tirupati,2023-11-11,Salary,Yes,No,1261423,354,1365016,381,Stocks,Salaried,Corporate Banking,2.0,6
+CUST124,Shlok Balasubramanian,Female,33,26-35,Madhya Pradesh,Hajipur,2024-03-29,Savings,Yes,Yes,533359,217,4753050,814,Stocks,Student,Digital Only,1.6,6
+CUST125,Advik Krishnamurthy,Female,48,46-55,Tamil Nadu,Ramgarh,2022-08-09,Savings,Yes,No,920994,93,2354277,714,Mutual Funds,Self-employed,Retail Banking,3.2,2
+CUST126,Advik Mannan,Female,35,26-35,West Bengal,Davanagere,2021-10-21,Current,No,No,1982667,455,630115,611,Mutual Funds,Retired,Corporate Banking,4.0,9
+CUST127,Adira Gera,Male,18,18-25,Delhi,Saharanpur,2022-04-10,Salary,No,No,1820152,439,4676204,590,FD,Salaried,Retail Banking,3.6,5
+CUST128,Advika Sundaram,Other,40,36-45,Madhya Pradesh,Latur,2022-05-03,NRI,No,No,1525508,310,4660123,710,Mutual Funds,Student,Retail Banking,3.5,6
+CUST129,Elakshi Kothari,Other,57,56-65,West Bengal,Vijayanagaram,2025-06-22,NRI,Yes,No,2317679,272,3107497,613,Stocks,Salaried,Digital Only,0.4,6
+CUST130,Dishani Garg,Male,41,36-45,Delhi,Proddatur,2025-10-05,Current,Yes,Yes,2378010,51,4248842,331,Mutual Funds,Student,Digital Only,0.1,8
+CUST131,Saksham Sarraf,Male,26,26-35,Bihar,Sultan Pur Majra,2023-04-27,Savings,No,No,1996107,412,1309582,611,FD,Retired,Digital Only,2.5,6
+CUST132,Inaaya  Sur,Male,46,46-55,Delhi,Warangal,2023-05-20,Savings,Yes,Yes,773157,185,3030959,338,Mutual Funds,Student,Corporate Banking,2.5,9
+CUST133,Saira Chhabra,Female,36,36-45,Uttar Pradesh,Guntur,2024-02-02,Current,No,No,974830,27,814061,660,FD,Salaried,Digital Only,1.8,3
+CUST134,Diya Chand,Other,31,26-35,Karnataka,Howrah,2024-05-16,Salary,Yes,Yes,2327810,122,1034403,847,FD,Retired,Retail Banking,1.5,2
+CUST135,Aarav Rajan,Female,55,46-55,Delhi,Cuttack,2022-01-24,Savings,Yes,No,1498890,110,2741851,347,FD,Self-employed,Retail Banking,3.8,4
+CUST136,Ela Vig,Female,58,56-65,Rajasthan,Madurai,2025-07-21,NRI,No,No,2299446,13,2965623,658,Mutual Funds,Self-employed,Retail Banking,0.3,7
+CUST137,Tushar Wali,Other,40,36-45,West Bengal,Sasaram,2022-07-03,NRI,Yes,No,1913840,333,1935790,305,None,Retired,Retail Banking,3.3,3
+CUST138,Faiyaz Issac,Male,32,26-35,Karnataka,Dhanbad,2021-02-02,Savings,Yes,Yes,1558143,328,3919745,428,Mutual Funds,Student,Digital Only,4.8,7
+CUST139,Divij Divan,Male,21,18-25,West Bengal,Ranchi,2020-12-13,Salary,No,No,985794,209,3825182,640,FD,Salaried,Digital Only,4.9,1
+CUST140,Bhavin Gala,Female,46,46-55,Delhi,Anantapur,2022-09-30,NRI,No,No,753522,442,765870,676,FD,Student,Corporate Banking,3.1,3
+CUST141,Madhav Bail,Male,65,56-65,Karnataka,Saharanpur,2021-01-10,NRI,No,No,1647816,483,1062065,579,Stocks,Self-employed,Retail Banking,4.8,1
+CUST142,Eva Rajagopalan,Female,23,18-25,Bihar,Katihar,2021-12-16,Current,No,No,243219,386,1063158,399,None,Salaried,Retail Banking,3.9,9
+CUST143,Aarna Manda,Male,56,56-65,Rajasthan,Naihati,2020-01-08,Savings,Yes,Yes,343859,367,2088720,832,FD,Retired,Retail Banking,5.8,3
+CUST144,Trisha Gola,Female,52,46-55,Bihar,Pali,2020-08-14,Savings,No,No,2483898,492,3014970,321,Stocks,Self-employed,Retail Banking,5.2,8
+CUST145,Zoya Lanka,Male,37,36-45,Maharashtra,Malegaon,2022-10-11,Salary,No,No,280756,110,2723932,791,Mutual Funds,Self-employed,Digital Only,3.1,10
+CUST146,Dishani Sahni,Male,50,46-55,Madhya Pradesh,Jamnagar,2024-09-25,NRI,No,No,248629,103,1485213,470,FD,Salaried,Corporate Banking,1.1,7
+CUST147,Jhanvi Ravel,Female,49,46-55,Bihar,Panchkula,2020-05-03,Current,Yes,Yes,1738616,393,3661511,432,Mutual Funds,Self-employed,Corporate Banking,5.5,7
+CUST148,Ritvik Ganesan,Other,22,18-25,Uttar Pradesh,Pune,2022-04-01,Savings,No,No,2129395,151,4562445,409,Mutual Funds,Salaried,Digital Only,3.6,2
+CUST149,Hunar Gala,Other,62,56-65,Karnataka,Sambhal,2020-02-16,Savings,No,No,1342852,32,1611822,677,Mutual Funds,Student,Retail Banking,5.7,7
+CUST150,Renee Gera,Male,22,18-25,Rajasthan,Hospet,2020-10-13,Current,Yes,No,2370813,442,4276866,684,FD,Salaried,Retail Banking,5.1,3
+CUST151,Tejas Vig,Other,59,56-65,Tamil Nadu,Katihar,2022-03-07,Savings,No,No,433903,94,3829924,659,FD,Student,Corporate Banking,3.7,1
+CUST152,Dharmajan Bawa,Male,40,36-45,Delhi,Gwalior,2025-01-01,NRI,No,No,1539761,353,4005305,672,Mutual Funds,Self-employed,Digital Only,0.8,5
+CUST153,Zain Rama,Female,44,36-45,Karnataka,Thane,2023-08-01,Savings,No,No,1606523,37,552439,404,FD,Salaried,Retail Banking,2.3,4
+CUST154,Keya Hayre,Other,67,65+,Rajasthan,Dehradun,2020-12-07,Salary,Yes,Yes,2321538,127,2210679,781,Stocks,Salaried,Retail Banking,4.9,6
+CUST155,Shalv Shankar,Male,55,46-55,Tamil Nadu,Etawah,2023-03-16,Savings,No,No,2382727,34,2656019,673,Mutual Funds,Salaried,Corporate Banking,2.6,4
+CUST156,Hunar Bera,Female,22,18-25,Rajasthan,Varanasi,2024-08-17,Current,Yes,Yes,752139,350,1015777,678,None,Self-employed,Retail Banking,1.2,6
+CUST157,Priyansh Sinha,Male,49,46-55,Bihar,Gopalpur,2023-03-08,NRI,No,No,518829,153,2807779,304,Mutual Funds,Retired,Retail Banking,2.7,3
+CUST158,Arhaan Borah,Female,59,56-65,Tamil Nadu,Arrah,2020-08-23,Savings,Yes,Yes,1044572,463,2732945,366,FD,Retired,Retail Banking,5.2,9
+CUST159,Rasha Agarwal,Female,52,46-55,Karnataka,Patiala,2022-11-14,Savings,Yes,No,1748604,440,2785758,788,Stocks,Salaried,Digital Only,3.0,8
+CUST160,Neysa Chadha,Female,51,46-55,Rajasthan,Nellore,2022-06-07,Salary,Yes,No,1230192,215,4375380,614,Mutual Funds,Student,Corporate Banking,3.4,9
+CUST161,Saksham Vala,Male,61,56-65,Bihar,Nagpur,2020-02-06,Current,No,No,2096638,98,97176,305,FD,Retired,Corporate Banking,5.7,4
+CUST162,Hiran Lalla,Male,30,26-35,Gujarat,Unnao,2020-03-29,Current,No,No,2179747,383,4675465,758,None,Salaried,Digital Only,5.6,5
+CUST163,Vardaniya Tella,Male,29,26-35,Karnataka,Gwalior,2025-07-23,NRI,Yes,Yes,293214,319,1733732,665,Mutual Funds,Self-employed,Retail Banking,0.3,1
+CUST164,Mehul Raju,Other,33,26-35,Madhya Pradesh,Sambhal,2023-06-18,Current,No,No,2085518,276,2952672,548,FD,Retired,Retail Banking,2.4,9
+CUST165,Heer Basu,Male,65,56-65,Maharashtra,Ambattur,2020-06-06,Salary,No,No,1129758,415,428177,472,FD,Self-employed,Corporate Banking,5.4,3
+CUST166,Hridaan Char,Female,41,36-45,Gujarat,Guna,2023-03-19,Current,Yes,No,1780145,139,1297819,566,Mutual Funds,Retired,Corporate Banking,2.6,3
+CUST167,Yashvi Dewan,Other,58,56-65,Karnataka,Tumkur,2023-05-10,Salary,Yes,Yes,487454,11,2256506,648,Mutual Funds,Retired,Digital Only,2.5,4
+CUST168,Shlok Dave,Female,63,56-65,Maharashtra,Raebareli,2023-05-05,Current,Yes,No,1334994,130,2830761,325,None,Student,Corporate Banking,2.5,7
+CUST169,Dishani Rama,Female,51,46-55,Bihar,Avadi,2022-11-29,Salary,No,No,1508934,453,52438,892,Mutual Funds,Self-employed,Digital Only,2.9,9
+CUST170,Zain Babu,Other,20,18-25,Madhya Pradesh,Bahraich,2025-02-07,NRI,Yes,No,348879,352,3033643,620,Mutual Funds,Salaried,Corporate Banking,0.7,1
+CUST171,Vanya Shah,Male,49,46-55,Maharashtra,Sri Ganganagar,2024-02-27,Salary,Yes,No,2172398,194,4084349,744,Mutual Funds,Salaried,Digital Only,1.7,8
+CUST172,Renee Gade,Other,65,56-65,Uttar Pradesh,Cuttack,2020-04-25,NRI,No,No,402558,100,4522404,396,FD,Student,Corporate Banking,5.5,6
+CUST173,Nitara Mahajan,Male,23,18-25,Karnataka,Madurai,2024-07-11,NRI,No,No,2114578,24,393790,610,Stocks,Salaried,Digital Only,1.3,7
+CUST174,Adira Bhasin,Female,22,18-25,Madhya Pradesh,Parbhani,2025-05-15,NRI,Yes,Yes,2214775,320,4587176,377,Mutual Funds,Student,Corporate Banking,0.5,10
+CUST175,Zeeshan Loke,Female,60,56-65,Maharashtra,Kochi,2022-08-15,NRI,No,No,1375722,99,2155563,855,None,Student,Retail Banking,3.2,4
+CUST176,Anvi Rege,Male,39,36-45,Rajasthan,South Dumdum,2024-03-26,Current,Yes,No,1803841,252,4704150,864,Mutual Funds,Self-employed,Digital Only,1.6,10
+CUST177,Ivan Sarna,Male,57,56-65,Tamil Nadu,Gopalpur,2022-09-25,Savings,Yes,No,1339724,217,2462256,494,FD,Salaried,Digital Only,3.1,4
+CUST178,Tushar Acharya,Male,65,56-65,Maharashtra,Jodhpur,2025-02-20,Current,No,No,2312888,278,940123,561,None,Self-employed,Retail Banking,0.7,7
+CUST179,Elakshi Sama,Female,25,18-25,Maharashtra,Gaya,2023-08-31,Current,No,No,1421076,21,2594114,454,Mutual Funds,Student,Retail Banking,2.2,7
+CUST180,Madhav Saini,Female,53,46-55,Rajasthan,Yamunanagar,2020-05-06,Savings,Yes,Yes,1177290,270,1603393,853,None,Self-employed,Digital Only,5.5,4
+CUST181,Ayesha Chakrabarti,Female,29,26-35,Bihar,Tinsukia,2020-05-02,Current,No,No,2255580,176,2662044,744,Stocks,Salaried,Retail Banking,5.5,3
+CUST182,Jayant Koshy,Other,58,56-65,Madhya Pradesh,Mirzapur,2020-10-10,Salary,Yes,No,1128550,403,4605055,688,Stocks,Salaried,Corporate Banking,5.1,1
+CUST183,Zeeshan Edwin,Male,27,26-35,Tamil Nadu,Mangalore,2025-07-09,Salary,Yes,No,1543109,343,3878191,651,None,Retired,Retail Banking,0.3,3
+CUST184,Tejas Kar,Female,55,46-55,Bihar,Berhampur,2025-02-24,Savings,No,No,1900149,485,3785081,430,None,Self-employed,Digital Only,0.7,9
+CUST185,Saira Saha,Other,35,26-35,Bihar,Anand,2021-08-13,Salary,Yes,No,799684,388,2948782,422,FD,Salaried,Corporate Banking,4.2,1
+CUST186,Nakul Comar,Female,26,26-35,Maharashtra,Naihati,2021-08-16,Savings,Yes,No,2180698,168,1191244,836,FD,Student,Corporate Banking,4.2,6
+CUST187,Jayan Chakraborty,Male,49,46-55,Bihar,Cuttack,2022-06-21,Savings,Yes,Yes,751837,152,102138,302,FD,Self-employed,Retail Banking,3.4,10
+CUST188,Khushi Raja,Female,30,26-35,West Bengal,Mau,2020-01-19,Savings,Yes,Yes,915388,414,4074232,804,Stocks,Self-employed,Digital Only,5.8,5
+CUST189,Jhanvi Bumb,Female,62,56-65,Delhi,Tirupati,2020-10-17,Salary,No,No,2101327,84,3842961,333,FD,Student,Corporate Banking,5.1,9
+CUST190,Kanav Brar,Other,54,46-55,Karnataka,Jorhat,2023-09-04,Current,Yes,Yes,1867838,418,3900730,693,Mutual Funds,Retired,Digital Only,2.2,7
+CUST191,Hunar Bali,Other,21,18-25,Uttar Pradesh,Bijapur,2021-04-22,Current,Yes,No,745066,325,446999,382,Stocks,Salaried,Digital Only,4.5,10
+CUST192,Mishti Bal,Male,60,56-65,Uttar Pradesh,Bhopal,2025-09-30,Salary,No,No,2427739,262,4244857,642,FD,Student,Retail Banking,0.1,2
+CUST193,Samiha Bhargava,Other,33,26-35,Bihar,Gandhidham,2020-03-10,Current,No,No,1120094,413,615297,720,Stocks,Salaried,Retail Banking,5.7,10
+CUST194,Inaaya  Khanna,Other,24,18-25,Bihar,Chandrapur,2021-09-21,Current,No,No,1420728,397,2694323,418,Stocks,Self-employed,Retail Banking,4.1,7
+CUST195,Ivan Balakrishnan,Female,18,18-25,Tamil Nadu,Gandhidham,2023-02-23,Salary,No,No,1836978,257,3028483,875,FD,Student,Retail Banking,2.7,1
+CUST196,Pari Gade,Other,35,26-35,Karnataka,Shivpuri,2024-04-13,Savings,Yes,No,1927608,264,2555953,706,None,Student,Retail Banking,1.6,4
+CUST197,Baiju Chaudhary,Male,28,26-35,Gujarat,Firozabad,2023-09-10,Savings,No,No,1851403,86,2870830,714,None,Self-employed,Retail Banking,2.2,5
+CUST198,Ivana Randhawa,Male,51,46-55,Bihar,Visakhapatnam,2021-02-19,Current,Yes,Yes,693402,197,4560262,779,FD,Retired,Digital Only,4.7,3
+CUST199,Badal Singhal,Male,35,26-35,Madhya Pradesh,Udupi,2021-03-30,NRI,No,No,2312924,28,4206247,897,FD,Self-employed,Digital Only,4.6,6
+CUST200,Shayak Agarwal,Other,70,65+,Tamil Nadu,Unnao,2024-05-03,Savings,No,No,1379392,432,2909964,631,None,Salaried,Digital Only,1.5,7
+CUST201,Anika Mannan,Female,40,36-45,Rajasthan,Baranagar,2024-09-23,Current,Yes,No,2464751,220,1270458,621,Stocks,Salaried,Corporate Banking,1.1,8
+CUST202,Gokul Kohli,Female,56,56-65,Uttar Pradesh,Solapur,2024-02-10,Salary,Yes,No,251165,37,3893354,659,Stocks,Student,Digital Only,1.7,7
+CUST203,Darshit Buch,Other,36,36-45,Bihar,Patna,2024-10-05,NRI,Yes,Yes,292366,99,3714375,648,FD,Self-employed,Digital Only,1.1,7
+CUST204,Jayan Bal,Male,69,65+,Delhi,Karaikudi,2021-03-28,Salary,No,No,1574575,454,1449021,828,Mutual Funds,Retired,Retail Banking,4.6,3
+CUST205,Anahi Luthra,Male,52,46-55,Madhya Pradesh,Aurangabad,2020-11-15,Current,No,No,1438948,87,4797456,614,None,Salaried,Retail Banking,5.0,10
+CUST206,Jayant Tak,Other,19,18-25,Karnataka,Thoothukudi,2024-06-15,Savings,No,No,2014584,384,3508262,600,FD,Salaried,Retail Banking,1.4,5
+CUST207,Darshit Bora,Female,36,36-45,Rajasthan,Unnao,2021-03-25,Savings,No,No,1489779,192,2573674,736,Mutual Funds,Retired,Digital Only,4.6,9
+CUST208,Divyansh Basak,Male,18,18-25,West Bengal,Kottayam,2024-01-03,Salary,No,No,1740254,23,1382352,578,Mutual Funds,Retired,Corporate Banking,1.8,2
+CUST209,Vidur Vohra,Female,68,65+,Madhya Pradesh,Chennai,2021-10-05,NRI,Yes,Yes,718858,312,2935388,374,Mutual Funds,Salaried,Retail Banking,4.1,9
+CUST210,Vritika Singh,Male,47,46-55,Maharashtra,Phusro,2023-03-26,Salary,Yes,No,1781045,443,416467,350,None,Salaried,Retail Banking,2.6,1
+CUST211,Zeeshan Gaba,Female,58,56-65,Maharashtra,Siwan,2024-04-04,NRI,Yes,No,2312491,327,4090185,307,Mutual Funds,Retired,Digital Only,1.6,10
+CUST212,Nayantara Bhardwaj,Female,31,26-35,Maharashtra,Loni,2022-01-19,Savings,No,No,793588,420,2151079,724,None,Self-employed,Corporate Banking,3.8,6
+CUST213,Abram Devi,Female,48,46-55,Rajasthan,Patna,2023-10-13,Savings,Yes,No,2284583,287,4856206,497,Mutual Funds,Self-employed,Retail Banking,2.1,4
+CUST214,Rania Dixit,Female,25,18-25,Uttar Pradesh,Nadiad,2024-06-07,Savings,No,No,1704692,359,4576764,669,None,Student,Retail Banking,1.4,4
+CUST215,Jiya Tandon,Other,52,46-55,Karnataka,Rajahmundry,2023-02-10,Savings,No,No,1283341,486,3590997,862,Mutual Funds,Student,Corporate Banking,2.7,10
+CUST216,Tejas Lata,Other,51,46-55,Karnataka,Gandhinagar,2020-12-30,Salary,Yes,Yes,920919,381,1140567,624,Mutual Funds,Self-employed,Digital Only,4.8,6
+CUST217,Lakshay Dutta,Other,49,46-55,Tamil Nadu,Nadiad,2022-07-09,NRI,No,No,998192,485,125606,616,None,Student,Corporate Banking,3.3,4
+CUST218,Kaira Grewal,Other,37,36-45,West Bengal,Maheshtala,2024-07-14,NRI,Yes,Yes,1260079,69,4875965,408,None,Salaried,Retail Banking,1.3,1
+CUST219,Devansh Saini,Male,58,56-65,Rajasthan,Karawal Nagar,2024-03-25,Salary,Yes,No,1725716,20,1886938,607,Mutual Funds,Self-employed,Corporate Banking,1.6,10
+CUST220,Ivana Badami,Male,61,56-65,Madhya Pradesh,Baranagar,2022-02-05,NRI,Yes,No,716075,160,1956940,632,None,Self-employed,Retail Banking,3.7,2
+CUST221,Aradhya Buch,Female,25,18-25,Delhi,Giridih,2024-05-02,Savings,No,No,1657842,380,3905087,665,Mutual Funds,Student,Retail Banking,1.5,8
+CUST222,Romil Dara,Female,21,18-25,Delhi,Berhampur,2022-10-12,NRI,Yes,Yes,2041823,297,3484673,613,Stocks,Salaried,Digital Only,3.1,1
+CUST223,Himmat Chaudhary,Male,22,18-25,Rajasthan,Vijayanagaram,2025-07-17,Savings,No,No,2244344,408,2626547,545,None,Self-employed,Retail Banking,0.3,4
+CUST224,Pari Dhar,Other,29,26-35,Tamil Nadu,Kamarhati,2023-05-10,Current,Yes,No,543927,319,1313913,354,Mutual Funds,Self-employed,Corporate Banking,2.5,4
+CUST225,Priyansh Mangal,Female,39,36-45,Tamil Nadu,Tiruvottiyur,2024-11-24,Current,No,No,844696,279,2466625,432,Stocks,Self-employed,Retail Banking,0.9,1
+CUST226,Taran Solanki,Other,54,46-55,Uttar Pradesh,Silchar,2022-08-10,Current,No,No,491009,132,1698883,741,Stocks,Student,Retail Banking,3.2,5
+CUST227,Hazel Tara,Male,27,26-35,Tamil Nadu,Bhilai,2025-09-09,NRI,Yes,Yes,1610249,234,4250992,341,None,Salaried,Corporate Banking,0.2,3
+CUST228,Baiju D’Alia,Other,50,46-55,Maharashtra,Kadapa,2023-03-26,Salary,No,No,527084,323,4858938,512,None,Self-employed,Corporate Banking,2.6,7
+CUST229,Ira Mannan,Other,35,26-35,Bihar,Bangalore,2022-10-15,Salary,No,No,1235077,84,3689751,538,Mutual Funds,Self-employed,Retail Banking,3.1,5
+CUST230,Chirag Ganguly,Female,53,46-55,Rajasthan,Gangtok,2024-01-15,NRI,Yes,Yes,2353210,336,415782,372,Stocks,Self-employed,Retail Banking,1.8,9
+CUST231,Miraya Brahmbhatt,Male,37,36-45,Madhya Pradesh,Akola,2022-05-18,Savings,Yes,Yes,1258345,198,2718812,818,FD,Self-employed,Retail Banking,3.5,10
+CUST232,Urvi Sarraf,Male,31,26-35,Tamil Nadu,Srikakulam,2020-01-23,Current,No,No,2042870,433,3850246,462,Mutual Funds,Retired,Corporate Banking,5.8,10
+CUST233,Madhav Ratta,Female,37,36-45,Madhya Pradesh,Gurgaon,2020-06-08,Salary,No,No,2002997,112,196396,593,Mutual Funds,Retired,Corporate Banking,5.4,10
+CUST234,Saanvi Sinha,Male,30,26-35,Karnataka,Vijayawada,2022-08-11,Salary,No,No,243187,140,3007389,841,Mutual Funds,Student,Digital Only,3.2,9
+CUST235,Aarush Sankaran,Male,21,18-25,Tamil Nadu,Kamarhati,2020-02-03,NRI,No,No,292941,226,2093364,599,None,Student,Retail Banking,5.8,9
+CUST236,Hansh Seth,Other,31,26-35,Uttar Pradesh,Aizawl,2023-07-27,NRI,Yes,Yes,405051,236,4482364,476,Mutual Funds,Retired,Corporate Banking,2.3,10
+CUST237,Veer Krishna,Male,68,65+,Tamil Nadu,Ongole,2021-11-25,Savings,No,No,2196519,382,2796164,879,Mutual Funds,Retired,Corporate Banking,3.9,2
+CUST238,Kavya Dhillon,Male,23,18-25,Delhi,Rampur,2019-11-25,Savings,Yes,Yes,926534,178,1542237,371,None,Student,Corporate Banking,5.9,7
+CUST239,Hansh Balakrishnan,Other,32,26-35,Madhya Pradesh,Tezpur,2023-03-15,Savings,No,No,208290,175,1992553,628,FD,Salaried,Corporate Banking,2.6,4
+CUST240,Arnav Reddy,Female,54,46-55,Gujarat,Serampore,2023-08-22,Salary,No,No,1814873,22,2138499,402,Stocks,Student,Retail Banking,2.2,1
+CUST241,Hazel Chander,Other,68,65+,Madhya Pradesh,Hazaribagh,2024-10-18,Savings,No,No,634204,235,1578789,716,None,Self-employed,Retail Banking,1.0,8
+CUST242,Ranbir Krishnamurthy,Other,39,36-45,Gujarat,Guna,2021-10-15,Savings,Yes,Yes,1079236,313,4303086,726,FD,Salaried,Corporate Banking,4.1,1
+CUST243,Indrans Sarna,Other,58,56-65,Maharashtra,Salem,2022-02-03,Salary,Yes,No,1838145,411,1381680,376,Mutual Funds,Student,Retail Banking,3.8,3
+CUST244,Nishith Kapur,Other,68,65+,West Bengal,Mysore,2023-09-29,Current,Yes,No,2126522,12,1818022,384,Stocks,Retired,Digital Only,2.1,7
+CUST245,Zaina Mand,Female,26,26-35,Karnataka,Nadiad,2022-12-03,Savings,Yes,No,2039141,88,882252,545,Mutual Funds,Self-employed,Digital Only,2.9,4
+CUST246,Shamik Sarma,Female,40,36-45,Gujarat,Proddatur,2021-05-08,Current,No,No,1268011,213,4986279,526,Stocks,Retired,Retail Banking,4.5,2
+CUST247,Suhana Brahmbhatt,Male,46,46-55,Maharashtra,Jalna,2023-09-13,Salary,No,No,264395,5,4995940,818,FD,Student,Corporate Banking,2.1,5
+CUST248,Yakshit Shetty,Male,23,18-25,Maharashtra,Visakhapatnam,2022-09-10,Salary,Yes,No,530053,494,400921,378,Mutual Funds,Self-employed,Retail Banking,3.2,10
+CUST249,Mishti Mane,Female,67,65+,Gujarat,Ambarnath,2021-10-31,NRI,Yes,Yes,1496118,46,2770268,409,FD,Student,Corporate Banking,4.0,3
+CUST250,Riya Gera,Male,29,26-35,Bihar,Shahjahanpur,2020-10-03,Savings,No,No,1528551,156,4194639,817,FD,Student,Digital Only,5.1,8
